@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <executable name="dist/YOURBOARD/production\nLockController.X.production.hex">
+    <memory name="program">
+      <units>bytes</units>
+      <length>131064</length>
+      <used>17711</used>
+      <free>113353</free>
+    </memory>
+    <memory name="data">
+      <units>bytes</units>
+      <length>3808</length>
+      <used>1289</used>
+      <free>2519</free>
+    </memory>
+  </executable>
+</project>
